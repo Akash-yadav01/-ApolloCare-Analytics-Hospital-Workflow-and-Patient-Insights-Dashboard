@@ -64,4 +64,4 @@ Here is a preview of the interactive dashboard:
 
 Here is a preview of the interactive hospital dashboard:
 
-![Apollo Dashboard Overview]()
+![Apollo Dashboard Overview](https://github.com/Akash-yadav01/-ApolloCare-Analytics-Hospital-Workflow-and-Patient-Insights-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
