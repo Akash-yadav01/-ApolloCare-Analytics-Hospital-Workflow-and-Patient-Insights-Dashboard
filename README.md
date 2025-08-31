@@ -53,4 +53,7 @@ To deliver an interactive hospital workflow and patient insights tool that:
 	•	Diagnosis Monitoring – Identifying top illnesses helps allocate resources to high-demand treatments.
 	•	Operational Efficiency – Unified dashboard reduces reporting delays and improves decision-making speed for hospital leadership.
  
- 
+   Screenshot
+    
+
+![Dashboard Overview](https://github.com/Akash-yadav01/Sales-Insights-Interactive-Market-Revenue-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
