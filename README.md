@@ -56,4 +56,4 @@ To deliver an interactive hospital workflow and patient insights tool that:
    Screenshot
     
 
-![Dashboard Overview][https://github.com/Akash-yadav01/Sales-Insights-Interactive-Market-Revenue-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png](https://github.com/Akash-yadav01/-ApolloCare-Analytics-Hospital-Workflow-and-Patient-Insights-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+![Dashboard Overview](https://github.com/Akash-yadav01/Sales-Insights-Interactive-Market-Revenue-Analytics-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png](https://github.com/Akash-yadav01/-ApolloCare-Analytics-Hospital-Workflow-and-Patient-Insights-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
