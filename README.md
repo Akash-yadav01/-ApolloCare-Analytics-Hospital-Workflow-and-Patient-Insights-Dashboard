@@ -60,4 +60,4 @@ To deliver an interactive hospital workflow and patient insights tool that:
 
 Here is a preview of the interactive dashboard:
 
-![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard Overview]([assets/dashboard_overview.png](https://github.com/Akash-yadav01/-ApolloCare-Analytics-Hospital-Workflow-and-Patient-Insights-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png))
